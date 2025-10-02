@@ -1,0 +1,15 @@
+# Виртуальные окружения
+venv/
+.venv/
+
+# Кэш питона
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
